@@ -1,1 +1,1 @@
-A simple code for creating a s Resume.
+A simple code for creating a Resume.
