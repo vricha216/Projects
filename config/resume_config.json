@@ -1,0 +1,14 @@
+{
+    "name": "test xyz",
+    "email": "test@gmail.com",
+    "contact": "+91-1234567890",
+    "address": "New Delhi, India",
+    "skills": ["Python", "Django", "REST APIs", "SQL"],
+    "languages": ["English", "Hindi"],
+    "objective": "As a recent graduate, I am seeking a role which allows me to continue learning and perfecting my skills...",
+    "header": "vricha211697@gmail.com",
+    "title": "Fresher",
+    "skills_header": "SKILLS",
+    "languages_header": "LANGUAGES",
+    "objective_header": "OBJECTIVE"
+}
